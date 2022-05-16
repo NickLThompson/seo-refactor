@@ -1,11 +1,9 @@
-# Title
-
-[LIVE SITE](https://www.google.com)
+# Horiseon SE Refactor
 
 ## Table of Contents
-1. [Description](#description)
-2. [Usage](#usage)
-3. [Visuals](#visuals)
+- [Description](#description)
+- [Visuals](#visuals)
+- [Resources](#resources)
 
 ## Description
 
@@ -16,8 +14,10 @@ Here's additional description
 ## Usage
 
 ## Visuals
-![makeareadme](./assets/images/makeareadme.png)
+![makeareadme](./assets/images/Horiseon.png)
 
-```html
-this is a code block
-```
+## Resources
+
+[Live Site](https://nicklthompson.github.io/seo-refactor/)
+
+[Repository](https://github.com/NickLThompson/seo-refactor)
